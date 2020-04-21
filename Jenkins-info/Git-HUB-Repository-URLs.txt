@@ -1,0 +1,8 @@
+ 
+  Git Repository URL formats
+
+  Local File System :  file:///D:/MyGitApps
+
+   Web Repository : https://www.github.com/MyApps
+
+  Git Repository protocol : git://localhost/myTest
